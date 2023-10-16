@@ -14,9 +14,16 @@ Welcome to the Tsion Academy News Portal, your gateway to streamlined and highly
 
 🔒 **User-Controlled Password Changes**: Security is a top priority. Parents have the freedom to change their passwords whenever they want, putting account security firmly in their hands and giving them the peace of mind they deserve.
 
-## Get Started
-
-Ready to experience these fantastic features firsthand? Head over to our website at [www.tsionacademy.com](http://www.tsionacademy.com) and start exploring. This platform is all about fostering better communication within the Tsion Academy community, and we can't wait to see the positive impact it will have.
-
-Stay tuned for more updates as we continue to enhance and refine the portal. We hope you enjoy exploring the new features and find them as exciting as we do!
-
+## Screenshots
+Screenshots of most of the website are as shown below
+![img4](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/e9946591-42ce-4a54-b936-3fcb197c56bf)
+![img3](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/3394499d-533a-4b06-a7aa-ef3239179d38)
+![img2](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/21dd761a-a237-4382-84ce-0bc67e66db02)
+![img1](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/7e9402cd-8b5f-466d-9048-8590bb8533aa)
+![img11](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/5aaf1de3-2410-4a38-8e4d-0d6b09d57fe1)
+![img10](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/a4f4605a-58fa-4cbe-a5e5-86d947932043)
+![img9](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/252ba25a-6eba-441e-8402-3aa1f99a1ae0)
+![img8](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/77a6d5ef-1f83-4cc0-9b86-fce730324726)
+![img7](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/f688bb32-f5fe-4b49-aaff-2e36d188282e)
+![img6](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/6e6be355-6f0f-4b1a-bcd8-04563ebc07d9)
+![img5](https://github.com/Dagimassefa/Tsion-Academy-Website/assets/94830418/54e14f0d-96d1-48f5-b585-d1bd2e8f21af)
